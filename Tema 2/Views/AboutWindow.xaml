@@ -1,0 +1,14 @@
+﻿<Window x:Class="Tema_2_MVP.Views.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="AboutWindow" Height="125" Width="200">
+    <Grid>
+        <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+            <TextBlock x:Name="Nume" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <TextBlock x:Name="Grupa" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </StackPanel>
+    </Grid>
+</Window>

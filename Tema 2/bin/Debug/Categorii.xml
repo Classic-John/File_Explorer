@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>Teme</string>
+  <string>Facultate</string>
+  <string>Munca</string>
+  <string>Acasa</string>
+  <string>Evenimente</string>
+  <string>Ocazii</string>
+  <string>Speciale</string>
+  <string>Altele</string>
+  <string>Bonus</string>
+</ArrayOfString>

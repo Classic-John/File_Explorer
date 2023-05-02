@@ -1,0 +1,62 @@
+C:\Users\alexa\source\repos\Tema 2 MVP\bin\Debug\Tema 2 MVP.exe.config
+C:\Users\alexa\source\repos\Tema 2 MVP\bin\Debug\Tema 2 MVP.exe
+C:\Users\alexa\source\repos\Tema 2 MVP\bin\Debug\Tema 2 MVP.pdb
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema 2 MVP.csproj.AssemblyReference.cache
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema 2 MVP.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\MainWindow.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\AddTaskWindow.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\FindTaskWindow.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\MainView.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\ManagingCategoriesWindow.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\App.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema 2 MVP_MarkupCompile.cache
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema 2 MVP_MarkupCompile.lref
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\MainWindow.baml
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\AboutWindow.baml
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\AddTaskWindow.baml
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\FindTaskWindow.baml
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\MainView.baml
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\ManagingCategoriesWindow.baml
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema 2 MVP.g.resources
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema_2_MVP.Properties.Resources.resources
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema 2 MVP.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema 2 MVP.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema 2 MVP.exe
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Tema 2 MVP.pdb
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\AddTodoListWindow.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\AddTodoListWindow.baml
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\PickCategory.g.cs
+C:\Users\alexa\source\repos\Tema 2 MVP\obj\Debug\Views\PickCategory.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\bin\Debug\Tema 2 MVP.exe.config
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\bin\Debug\Tema 2 MVP.exe
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\bin\Debug\Tema 2 MVP.pdb
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema 2 MVP.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema 2 MVP.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\AboutWindow.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\AddTaskWindow.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\AboutWindow.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\AddTaskWindow.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\AddTodoListWindow.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\FindTaskWindow.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\MainView.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\ManagingCategoriesWindow.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\PickCategory.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema 2 MVP_MarkupCompile.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema 2 MVP_MarkupCompile.lref
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\AddTodoListWindow.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\FindTaskWindow.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\MainView.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\ManagingCategoriesWindow.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Views\PickCategory.baml
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema 2 MVP.g.resources
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema_2_MVP.Properties.Resources.resources
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema 2 MVP.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema 2 MVP.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema 2 MVP.exe
+C:\Users\User\Desktop\Facultate\Anul 2\Sem 2\MVP\Teme\Tema2\Tema 2\obj\Debug\Tema 2 MVP.pdb

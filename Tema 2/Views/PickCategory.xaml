@@ -1,0 +1,17 @@
+﻿<Window x:Class="Tema_2_MVP.Views.PickCategory"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:viewmodels="clr-namespace:Tema_2_MVP.ViewModels" d:DataContext="{d:DesignInstance Type=viewmodels:ManagingCategoriesViewModel}"
+        mc:Ignorable="d"
+        Title="PickCategory" Height="400" Width="300">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center"> 
+            <ScrollViewer>
+                <ListBox ItemsSource="{Binding Categories}" SelectedItem="{Binding SelectedCategory}" />
+            </ScrollViewer>
+            <Button Content="Confirma" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

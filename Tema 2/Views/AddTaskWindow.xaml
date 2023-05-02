@@ -1,0 +1,82 @@
+﻿<Window x:Class="Tema_2_MVP.Views.AddTaskWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="AddTaskWindow" Height="450" Width="800">
+    <Grid Background="White" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <TextBox Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Text="{Binding TitleText}" Margin="100,10,100,10">
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Style.Resources>
+                        <VisualBrush x:Key="WatermarkBrush" Stretch="None">
+                            <VisualBrush.Visual>
+                                <TextBlock Text="Give your task a title!" Foreground="LightGray"/>
+                            </VisualBrush.Visual>
+                        </VisualBrush>
+                    </Style.Resources>
+                    <Style.Triggers>
+                        <Trigger Property="Text" Value="">
+                            <Setter Property="Background" Value="{StaticResource WatermarkBrush}"/>
+                        </Trigger>
+                        <Trigger Property="Text" Value="{x:Null}">
+                            <Setter Property="Background" Value="{StaticResource WatermarkBrush}"/>
+                        </Trigger>
+                        <Trigger Property="IsKeyboardFocused" Value="True">
+                            <Setter Property="Background" Value="White"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBox.Style>
+        </TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Text="{Binding DescriptionText}" Margin="5,5,5,5">
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Style.Resources>
+                        <VisualBrush x:Key="WatermarkBrush" Stretch="None">
+                            <VisualBrush.Visual>
+                                <TextBlock Text="Give your task a description!" Foreground="LightGray"/>
+                            </VisualBrush.Visual>
+                        </VisualBrush>
+                    </Style.Resources>
+                    <Style.Triggers>
+                        <Trigger Property="Text" Value="">
+                            <Setter Property="Background" Value="{StaticResource WatermarkBrush}"/>
+                        </Trigger>
+                        <Trigger Property="Text" Value="{x:Null}">
+                            <Setter Property="Background" Value="{StaticResource WatermarkBrush}"/>
+                        </Trigger>
+                        <Trigger Property="IsKeyboardFocused" Value="True">
+                            <Setter Property="Background" Value="White"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBox.Style>
+        </TextBox>
+        <ComboBox Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Margin="125,10,125,10"
+            SelectedIndex="{Binding CategoryIndex}" ItemsSource="{Binding Categories}" />
+        <ComboBox Grid.Row="3" Grid.Column="1" Margin="100,10,25,10"
+            SelectedIndex="{Binding PriorityIndex}" ItemsSource="{Binding Priorities}" />
+        <ComboBox Grid.Row="3" Grid.Column="2" Margin="25,10,100,10"
+            SelectedIndex="{Binding StatusIndex}" ItemsSource="{Binding Status}" />
+        <DatePicker Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2" Margin="100,10,100,10"
+                    SelectedDate="{Binding Deadline}"/>
+
+        <Button Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2" Margin="100,10,100,20" Content="Add Task" Click="AddTask_Click"/>
+    </Grid>
+</Window>
